@@ -1,0 +1,55 @@
+  450  git commit -m "THIS IS MY SECOND COMMIT"
+  451  git add new.c
+  452  git commit -m "THIS IS MY SECOND COMMIT"
+  453  git status
+  454  git log
+  455  vi name.txt
+  456  vi work.html
+  457  git status
+  458  git add name.txt
+  459  git add work.txt
+  460  git add work.html
+  461  git commit -m "THIS IS THIRD COMMITMENT"
+  462  git status
+  463  git remote add origin https://github.com/Bhavya124/Assess_0059.git
+  464  git remote add origin https://github.com/Bhavya124/Assess_0059.git
+  465  git branch -M master
+  466  git push -u origin master
+  467  ls
+  468  mkdir img
+  469  cd img
+  470  git status
+  471  git add .
+  472  git status
+  473  git .gitignore
+  474  .gitignore
+  475  vi .gitignore
+  476  vi .gitignore
+  477  vi new.c
+  478  vi name.txt
+  479  vi work.html
+  480  git status
+  481  git add .gitignore
+  482  git status
+  483  vi .gitignore
+  484  git status
+  485  git push
+  486  git add .gitignore
+  487  git status
+  488  git remote add origin https://github.com/Bhavya124/Assess_0059.git
+  489  git push -u origin master
+  490  cd ..
+  491  git push
+  492  git status
+  493  cd ..
+  494  cd Assess_0059
+  495  cd ..
+  496  cd ..
+  497  cd Assess_0059
+  498  git status
+  499  git add .
+  500  git commit -m "Completed"
+  501  cd ..
+  502  cd ..
+  503  ls
+  504  cd Assess_0059
